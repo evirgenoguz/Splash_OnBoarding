@@ -1,7 +1,7 @@
 package com.evirgenoguz.onboarding
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.evirgenoguz.onboarding.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
